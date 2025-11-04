@@ -16,7 +16,9 @@
 Online discussions are frequently disrupted by toxic behavior, discouraging users
 from engaging in meaningful conversations. The Toxic Comments Challenge,
 organized by Jigsaw and Google, aims to improve the detection of harmful content,
-including threats, obscenity, insults, and identity-based hate speech. In this
+including threats, obscenity, insults, and identity-based hate speech. 
+
+In this
 project, we analyze the dataset provided in the competition to explore word distributions
 and identify patterns commonly associated with toxic comments. Several
 Recurrent Neural Networks (RNNs), including GRU, LSTM, Bidirectional
